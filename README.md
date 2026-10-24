@@ -1,4 +1,4 @@
-# SoftCursorManager
+# SoftCursorManager光标发白修复
 
 Windows 光标「软件渲染」保活小工具（托盘程序）。
 
