@@ -1,0 +1,6 @@
+# build output
+SoftCursorManager.exe
+*.pdb
+
+# user logs
+*.log
